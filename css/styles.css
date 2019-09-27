@@ -1,0 +1,21 @@
+body {
+  background-color: ;
+  }
+  .flex-container {
+    display: flex;
+    background-color: black;
+    color: white;
+  }
+  .flex-container > div {
+    background-color: #f1f1f1;
+    margin: auto;
+    margin-top: auto;
+    width: 500px;
+    height: 500px;
+    padding: 20px;
+    font-size: 30px;
+  }
+
+  h1 {
+    margin:auto;
+  }
